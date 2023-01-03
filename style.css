@@ -1,0 +1,12 @@
+@font-face{
+    font-family: AnalogScript;
+    src: url(./AnalogScript.otf);
+}
+h1{
+    font-family: AnalogScript;
+    color: aqua;
+}
+
+ol{
+    font-family: 'Dancing Script', cursive;
+}
